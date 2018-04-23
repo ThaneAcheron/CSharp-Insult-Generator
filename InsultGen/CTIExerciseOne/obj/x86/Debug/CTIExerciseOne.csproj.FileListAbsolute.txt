@@ -1,0 +1,27 @@
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\bin\Debug\CTIExerciseOne.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\bin\Debug\CTIExerciseOne.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.Form1.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.Properties.Resources.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.exe
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\bin\Debug\CTIExerciseOne.exe
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\bin\Debug\CTIExerciseOne.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.Form1.resources
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.Properties.Resources.resources
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\documents\visual studio 2010\Projects\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\bin\Debug\CTIExerciseOne.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\bin\Debug\CTIExerciseOne.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.exe
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\CTIExerciseOne\CTIExerciseOne\obj\x86\Debug\CTIExerciseOne.pdb
